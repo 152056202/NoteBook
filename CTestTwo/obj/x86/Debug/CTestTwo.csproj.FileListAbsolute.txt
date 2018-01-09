@@ -1,0 +1,4 @@
+d:\documents\visual studio 2010\Projects\CTestTwo\CTestTwo\bin\Debug\CTestTwo.exe
+d:\documents\visual studio 2010\Projects\CTestTwo\CTestTwo\bin\Debug\CTestTwo.pdb
+d:\documents\visual studio 2010\Projects\CTestTwo\CTestTwo\obj\x86\Debug\CTestTwo.exe
+d:\documents\visual studio 2010\Projects\CTestTwo\CTestTwo\obj\x86\Debug\CTestTwo.pdb
