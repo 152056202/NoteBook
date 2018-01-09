@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Collections;
+using System.IO;
 
-namespace CTestTwo
+namespace CTestThree
 {
     class Program
     {
@@ -12,20 +13,22 @@ namespace CTestTwo
         static string name = string.Empty;
         static string lable = string.Empty;
         static string content = string.Empty;
+        static string path = string.Empty;
         static void Main(string[] args)
         {
-            Console.Title="简单记事本SECOND";//设置控制台标题
+            Console.Title = "简单记事本SECOND";//设置控制台标题
             Boolean a = true;
             int b = 0;
             //while循环
             while (a)
             {
                 //输出菜单
-                Console.WriteLine("我的记事本[内测第一版 ]");
+                Console.WriteLine("我的记事本[内测第二版 ]");
                 Console.Write("*_*_*_*_*_*_*\n菜单栏------主界面\n1、新建笔记\n2、打开笔记\n3、新建分类\n4、管理分类\n5、退出\n*_*_*_*_*_*_*\n");
                 //获取返回值
                 b = int.Parse(Console.ReadLine());
-                switch (b) { 
+                switch (b)
+                {
                     case 1:
                         newnote();
                         break;
@@ -43,12 +46,13 @@ namespace CTestTwo
                         a = false;
                         break;
                     default:
-                        break; 
+                        break;
                 }//switch
             }//结束while循环
         }
         //新建笔记
-        static void newnote() {
+        static void newnote()
+        {
             //清空控制台
             Console.Clear();
             //新建笔记
@@ -62,12 +66,42 @@ namespace CTestTwo
             Console.Write("请输入笔记内容");
             //输入笔记内容
             content = Console.ReadLine();
+            Console.Write("请输入笔记保存路径");
+            //输入笔记保存路径
+            path = Console.ReadLine()+name+".txt";
             //向集合中添加信息
-            al.Add(new note() { Name = name, Lable = lable, Content = content });
-            Console.Write("笔记保存成功\n");
+            al.Add(new note(name,lable,path));
+            Console.Write("笔记信息保存成功\n");
+            
+            //判断文件是否存在  
+            if (!File.Exists(path+name+".txt"))
+            {
+                FileStream fs1 = new FileStream(path, FileMode.Create, FileAccess.Write);//创建写入文件 ///"F:\\TestTxt.txt"
+                StreamWriter sw = new StreamWriter(fs1);
+                //将内容写入文本
+                sw.WriteLine(content);
+                sw.Close();
+                fs1.Close();
+            }
+            else
+            {
+                FileStream fs = new FileStream(path, FileMode.Open, FileAccess.Write);
+                StreamWriter sr = new StreamWriter(fs);
+                sr.WriteLine(content);//开始写入值
+                sr.Close();
+                /*
+                System.IO.StreamReader srr = new System.IO.StreamReader("F:\\TestTxt.txt");
+                string data = srr.ReadToEnd();
+                srr.Close();
+                 * */
+                fs.Close();
+                //Console.WriteLine(data);
+            }
+            Console.WriteLine("文件写入成功");
         }
         //打开笔记
-        static void opennote() {
+        static void opennote()
+        {
             //清空控制台
             Console.Clear();
             //打开笔记
@@ -86,7 +120,8 @@ namespace CTestTwo
             }
         }
         //新建分类
-        static void newlable() {
+        static void newlable()
+        {
             //清空控制台
             Console.Clear();
             //新建分类
@@ -106,12 +141,13 @@ namespace CTestTwo
             if (s == 0)
             {
                 //向集合中添加信息
-                al.Add(new note() { Name = "", Lable = lable, Content = "" });
+                al.Add(new note(name,lable,path));
             }
             Console.Write("新建笔记分类成功\n");
         }
         //管理分类
-        static void managelable() {
+        static void managelable()
+        {
             //清空控制台
             Console.Clear();
             //管理分类
@@ -141,28 +177,29 @@ namespace CTestTwo
             }
         }
         //输出笔记本内容
-        static void writeContext(string strname) {
+        static void writeContext(string strname)
+        {
             foreach (object o in al)
             {
                 if (((note)o).Name == strname)
                 {
-                    Console.WriteLine("笔记内容:{0}", ((note)o).Content);
+                    //获取文件路径
+                    Console.WriteLine("笔记路径:{0}",((note)o).Path);
+                    path = ((note)o).Path;
                 }
             }
+            System.IO.StreamReader srr = new System.IO.StreamReader(path);
+            string data = srr.ReadToEnd();
+            srr.Close();
+            Console.WriteLine("笔记内容:{0}", data);
         }
         //输出笔记本名称
-        static void writeName() {
+        static void writeName()
+        {
             foreach (object o in al)
             {
                 Console.WriteLine("笔记名称:{0}", ((note)o).Name);
             }
         }
-    }
-    class note
-    {
-        //定义记事本类
-        public string Name;//定义记事本名字字段
-        public string Lable;//定义记事本标签字段
-        public string Content;//定义记事本内容字段
     }
 }

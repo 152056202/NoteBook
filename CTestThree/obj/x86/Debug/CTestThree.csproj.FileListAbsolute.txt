@@ -1,0 +1,5 @@
+d:\documents\visual studio 2010\Projects\CTestThree\CTestThree\bin\Debug\CTestThree.exe
+d:\documents\visual studio 2010\Projects\CTestThree\CTestThree\bin\Debug\CTestThree.pdb
+d:\documents\visual studio 2010\Projects\CTestThree\CTestThree\obj\x86\Debug\CTestThree.exe
+d:\documents\visual studio 2010\Projects\CTestThree\CTestThree\obj\x86\Debug\CTestThree.pdb
+d:\documents\visual studio 2010\Projects\CTestThree\CTestThree\obj\x86\Debug\CTestThree.csprojResolveAssemblyReference.cache
