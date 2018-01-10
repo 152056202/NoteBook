@@ -1,0 +1,145 @@
+D:\project\Visual C#\MySoftware\NoteBook\Backup\bin\Debug\NoteBook.exe.manifest
+D:\project\Visual C#\MySoftware\NoteBook\Backup\bin\Debug\NoteBook.application
+D:\project\Visual C#\MySoftware\NoteBook\Backup\bin\Debug\NoteBook.exe
+D:\project\Visual C#\MySoftware\NoteBook\Backup\bin\Debug\NoteBook.pdb
+D:\project\Visual C#\MySoftware\NoteBook\Backup\obj\Debug\ResolveAssemblyReference.cache
+D:\project\Visual C#\MySoftware\NoteBook\Backup\obj\Debug\NoteBook.about.resources
+D:\project\Visual C#\MySoftware\NoteBook\Backup\obj\Debug\NoteBook.FrmFileRename.resources
+D:\project\Visual C#\MySoftware\NoteBook\Backup\obj\Debug\NoteBook.FrmTransStr.resources
+D:\project\Visual C#\MySoftware\NoteBook\Backup\obj\Debug\NoteBook.Statistics.resources
+D:\project\Visual C#\MySoftware\NoteBook\Backup\obj\Debug\NoteBook.SaveTF.resources
+D:\project\Visual C#\MySoftware\NoteBook\Backup\obj\Debug\NoteBook.Properties.Resources.resources
+D:\project\Visual C#\MySoftware\NoteBook\Backup\obj\Debug\NoteBook.replace.resources
+D:\project\Visual C#\MySoftware\NoteBook\Backup\obj\Debug\NoteBook.search.resources
+D:\project\Visual C#\MySoftware\NoteBook\Backup\obj\Debug\NoteBook.txt.resources
+D:\project\Visual C#\MySoftware\NoteBook\Backup\obj\Debug\NoteBook.csproj.GenerateResource.Cache
+D:\project\Visual C#\MySoftware\NoteBook\Backup\obj\Debug\NoteBook.exe.manifest
+D:\project\Visual C#\MySoftware\NoteBook\Backup\obj\Debug\NoteBook.application
+D:\project\Visual C#\MySoftware\NoteBook\Backup\obj\Debug\NoteBook.exe
+D:\project\Visual C#\MySoftware\NoteBook\Backup\obj\Debug\NoteBook.pdb
+D:\project\Visual C#\MySoftware\NoteBook\obj\Debug\NoteBook.exe
+D:\project\Visual C#\MySoftware\NoteBook\obj\Debug\NoteBook.pdb
+D:\project\Visual C#\MySoftware\NoteBook\bin\Debug\NoteBook.exe.manifest
+D:\project\Visual C#\MySoftware\NoteBook\bin\Debug\NoteBook.application
+D:\project\Visual C#\MySoftware\NoteBook\bin\Debug\NoteBook.exe
+D:\project\Visual C#\MySoftware\NoteBook\bin\Debug\NoteBook.pdb
+D:\project\Visual C#\MySoftware\NoteBook\obj\Debug\ResolveAssemblyReference.cache
+D:\project\Visual C#\MySoftware\NoteBook\obj\Debug\NoteBook.FrmDataView.resources
+D:\project\Visual C#\MySoftware\NoteBook\obj\Debug\NoteBook.about.resources
+D:\project\Visual C#\MySoftware\NoteBook\obj\Debug\NoteBook.FrmFileRename.resources
+D:\project\Visual C#\MySoftware\NoteBook\obj\Debug\NoteBook.FrmTransStr.resources
+D:\project\Visual C#\MySoftware\NoteBook\obj\Debug\NoteBook.Statistics.resources
+D:\project\Visual C#\MySoftware\NoteBook\obj\Debug\NoteBook.SaveTF.resources
+D:\project\Visual C#\MySoftware\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+D:\project\Visual C#\MySoftware\NoteBook\obj\Debug\NoteBook.replace.resources
+D:\project\Visual C#\MySoftware\NoteBook\obj\Debug\NoteBook.search.resources
+D:\project\Visual C#\MySoftware\NoteBook\obj\Debug\NoteBook.txt.resources
+D:\project\Visual C#\MySoftware\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.Cache
+D:\project\Visual C#\MySoftware\NoteBook\obj\Debug\NoteBook.exe.manifest
+D:\project\Visual C#\MySoftware\NoteBook\obj\Debug\NoteBook.application
+D:\project\Visual C#\MySoftware\NoteBook\obj\Debug\NoteBook.exe.licenses
+C:\Users\Dell\Downloads\NoteBook-master\NoteBook\obj\Debug\NoteBook.exe
+C:\Users\Dell\Downloads\NoteBook-master\NoteBook\obj\Debug\NoteBook.pdb
+C:\Users\Dell\Downloads\NoteBook-master\NoteBook\bin\Debug\NoteBook.exe.manifest
+C:\Users\Dell\Downloads\NoteBook-master\NoteBook\bin\Debug\NoteBook.application
+C:\Users\Dell\Downloads\NoteBook-master\NoteBook\bin\Debug\NoteBook.exe
+C:\Users\Dell\Downloads\NoteBook-master\NoteBook\bin\Debug\NoteBook.pdb
+C:\Users\Dell\Downloads\NoteBook-master\NoteBook\obj\Debug\NoteBook.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Downloads\NoteBook-master\NoteBook\obj\Debug\NoteBook.FrmDataView.resources
+C:\Users\Dell\Downloads\NoteBook-master\NoteBook\obj\Debug\NoteBook.about.resources
+C:\Users\Dell\Downloads\NoteBook-master\NoteBook\obj\Debug\NoteBook.FrmFileRename.resources
+C:\Users\Dell\Downloads\NoteBook-master\NoteBook\obj\Debug\NoteBook.FrmTransStr.resources
+C:\Users\Dell\Downloads\NoteBook-master\NoteBook\obj\Debug\NoteBook.Statistics.resources
+C:\Users\Dell\Downloads\NoteBook-master\NoteBook\obj\Debug\NoteBook.SaveTF.resources
+C:\Users\Dell\Downloads\NoteBook-master\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+C:\Users\Dell\Downloads\NoteBook-master\NoteBook\obj\Debug\NoteBook.replace.resources
+C:\Users\Dell\Downloads\NoteBook-master\NoteBook\obj\Debug\NoteBook.search.resources
+C:\Users\Dell\Downloads\NoteBook-master\NoteBook\obj\Debug\NoteBook.txt.resources
+C:\Users\Dell\Downloads\NoteBook-master\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.Cache
+C:\Users\Dell\Downloads\NoteBook-master\NoteBook\obj\Debug\NoteBook.exe.licenses
+C:\Users\Dell\Downloads\NoteBook-master\NoteBook\obj\Debug\NoteBook.exe.manifest
+C:\Users\Dell\Downloads\NoteBook-master\NoteBook\obj\Debug\NoteBook.application
+H:\NoteBook-master\NoteBook\obj\Debug\NoteBook.exe
+H:\NoteBook-master\NoteBook\obj\Debug\NoteBook.pdb
+H:\NoteBook-master\NoteBook\bin\Debug\NoteBook.exe.manifest
+H:\NoteBook-master\NoteBook\bin\Debug\NoteBook.application
+H:\NoteBook-master\NoteBook\bin\Debug\NoteBook.exe
+H:\NoteBook-master\NoteBook\bin\Debug\NoteBook.pdb
+H:\NoteBook-master\NoteBook\obj\Debug\NoteBook.csprojResolveAssemblyReference.cache
+H:\NoteBook-master\NoteBook\obj\Debug\NoteBook.FrmDataView.resources
+H:\NoteBook-master\NoteBook\obj\Debug\NoteBook.about.resources
+H:\NoteBook-master\NoteBook\obj\Debug\NoteBook.FrmFileRename.resources
+H:\NoteBook-master\NoteBook\obj\Debug\NoteBook.FrmTransStr.resources
+H:\NoteBook-master\NoteBook\obj\Debug\NoteBook.Statistics.resources
+H:\NoteBook-master\NoteBook\obj\Debug\NoteBook.SaveTF.resources
+H:\NoteBook-master\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+H:\NoteBook-master\NoteBook\obj\Debug\NoteBook.replace.resources
+H:\NoteBook-master\NoteBook\obj\Debug\NoteBook.search.resources
+H:\NoteBook-master\NoteBook\obj\Debug\NoteBook.txt.resources
+H:\NoteBook-master\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.Cache
+H:\NoteBook-master\NoteBook\obj\Debug\NoteBook.exe.licenses
+H:\NoteBook-master\NoteBook\obj\Debug\NoteBook.exe.manifest
+H:\NoteBook-master\NoteBook\obj\Debug\NoteBook.application
+C:\Users\HSN\Desktop\C#\记事本\NoteBook\obj\Debug\NoteBook.exe
+C:\Users\HSN\Desktop\C#\记事本\NoteBook\obj\Debug\NoteBook.pdb
+C:\Users\HSN\Desktop\C#\记事本\NoteBook\bin\Debug\NoteBook.exe.manifest
+C:\Users\HSN\Desktop\C#\记事本\NoteBook\bin\Debug\NoteBook.application
+C:\Users\HSN\Desktop\C#\记事本\NoteBook\bin\Debug\NoteBook.exe
+C:\Users\HSN\Desktop\C#\记事本\NoteBook\bin\Debug\NoteBook.pdb
+C:\Users\HSN\Desktop\C#\记事本\NoteBook\obj\Debug\NoteBook.csprojResolveAssemblyReference.cache
+C:\Users\HSN\Desktop\C#\记事本\NoteBook\obj\Debug\NoteBook.FrmDataView.resources
+C:\Users\HSN\Desktop\C#\记事本\NoteBook\obj\Debug\NoteBook.about.resources
+C:\Users\HSN\Desktop\C#\记事本\NoteBook\obj\Debug\NoteBook.FrmFileRename.resources
+C:\Users\HSN\Desktop\C#\记事本\NoteBook\obj\Debug\NoteBook.FrmTransStr.resources
+C:\Users\HSN\Desktop\C#\记事本\NoteBook\obj\Debug\NoteBook.Statistics.resources
+C:\Users\HSN\Desktop\C#\记事本\NoteBook\obj\Debug\NoteBook.SaveTF.resources
+C:\Users\HSN\Desktop\C#\记事本\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+C:\Users\HSN\Desktop\C#\记事本\NoteBook\obj\Debug\NoteBook.replace.resources
+C:\Users\HSN\Desktop\C#\记事本\NoteBook\obj\Debug\NoteBook.search.resources
+C:\Users\HSN\Desktop\C#\记事本\NoteBook\obj\Debug\NoteBook.txt.resources
+C:\Users\HSN\Desktop\C#\记事本\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.Cache
+C:\Users\HSN\Desktop\C#\记事本\NoteBook\obj\Debug\NoteBook.exe.licenses
+C:\Users\HSN\Desktop\C#\记事本\NoteBook\obj\Debug\NoteBook.exe.manifest
+C:\Users\HSN\Desktop\C#\记事本\NoteBook\obj\Debug\NoteBook.application
+C:\Users\HSN\Desktop\4\记事本\NoteBook\obj\Debug\NoteBook.exe
+C:\Users\HSN\Desktop\4\记事本\NoteBook\obj\Debug\NoteBook.pdb
+C:\Users\HSN\Desktop\4\记事本\NoteBook\bin\Debug\NoteBook.exe.manifest
+C:\Users\HSN\Desktop\4\记事本\NoteBook\bin\Debug\NoteBook.application
+C:\Users\HSN\Desktop\4\记事本\NoteBook\bin\Debug\NoteBook.exe
+C:\Users\HSN\Desktop\4\记事本\NoteBook\bin\Debug\NoteBook.pdb
+C:\Users\HSN\Desktop\4\记事本\NoteBook\obj\Debug\NoteBook.csprojResolveAssemblyReference.cache
+C:\Users\HSN\Desktop\4\记事本\NoteBook\obj\Debug\NoteBook.FrmDataView.resources
+C:\Users\HSN\Desktop\4\记事本\NoteBook\obj\Debug\NoteBook.about.resources
+C:\Users\HSN\Desktop\4\记事本\NoteBook\obj\Debug\NoteBook.FrmFileRename.resources
+C:\Users\HSN\Desktop\4\记事本\NoteBook\obj\Debug\NoteBook.FrmTransStr.resources
+C:\Users\HSN\Desktop\4\记事本\NoteBook\obj\Debug\NoteBook.Statistics.resources
+C:\Users\HSN\Desktop\4\记事本\NoteBook\obj\Debug\NoteBook.SaveTF.resources
+C:\Users\HSN\Desktop\4\记事本\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+C:\Users\HSN\Desktop\4\记事本\NoteBook\obj\Debug\NoteBook.replace.resources
+C:\Users\HSN\Desktop\4\记事本\NoteBook\obj\Debug\NoteBook.search.resources
+C:\Users\HSN\Desktop\4\记事本\NoteBook\obj\Debug\NoteBook.txt.resources
+C:\Users\HSN\Desktop\4\记事本\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.Cache
+C:\Users\HSN\Desktop\4\记事本\NoteBook\obj\Debug\NoteBook.exe.licenses
+C:\Users\HSN\Desktop\4\记事本\NoteBook\obj\Debug\NoteBook.exe.manifest
+C:\Users\HSN\Desktop\4\记事本\NoteBook\obj\Debug\NoteBook.application
+C:\Users\HSN\Desktop\c#各个记事本\记事本5\NoteBook\obj\Debug\NoteBook.exe
+C:\Users\HSN\Desktop\c#各个记事本\记事本5\NoteBook\obj\Debug\NoteBook.pdb
+C:\Users\HSN\Desktop\c#各个记事本\记事本5\NoteBook\bin\Debug\NoteBook.exe.manifest
+C:\Users\HSN\Desktop\c#各个记事本\记事本5\NoteBook\bin\Debug\NoteBook.application
+C:\Users\HSN\Desktop\c#各个记事本\记事本5\NoteBook\bin\Debug\NoteBook.exe
+C:\Users\HSN\Desktop\c#各个记事本\记事本5\NoteBook\bin\Debug\NoteBook.pdb
+C:\Users\HSN\Desktop\c#各个记事本\记事本5\NoteBook\obj\Debug\NoteBook.csprojResolveAssemblyReference.cache
+C:\Users\HSN\Desktop\c#各个记事本\记事本5\NoteBook\obj\Debug\NoteBook.FrmDataView.resources
+C:\Users\HSN\Desktop\c#各个记事本\记事本5\NoteBook\obj\Debug\NoteBook.about.resources
+C:\Users\HSN\Desktop\c#各个记事本\记事本5\NoteBook\obj\Debug\NoteBook.FrmFileRename.resources
+C:\Users\HSN\Desktop\c#各个记事本\记事本5\NoteBook\obj\Debug\NoteBook.FrmTransStr.resources
+C:\Users\HSN\Desktop\c#各个记事本\记事本5\NoteBook\obj\Debug\NoteBook.Statistics.resources
+C:\Users\HSN\Desktop\c#各个记事本\记事本5\NoteBook\obj\Debug\NoteBook.SaveTF.resources
+C:\Users\HSN\Desktop\c#各个记事本\记事本5\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+C:\Users\HSN\Desktop\c#各个记事本\记事本5\NoteBook\obj\Debug\NoteBook.replace.resources
+C:\Users\HSN\Desktop\c#各个记事本\记事本5\NoteBook\obj\Debug\NoteBook.search.resources
+C:\Users\HSN\Desktop\c#各个记事本\记事本5\NoteBook\obj\Debug\NoteBook.txt.resources
+C:\Users\HSN\Desktop\c#各个记事本\记事本5\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.Cache
+C:\Users\HSN\Desktop\c#各个记事本\记事本5\NoteBook\obj\Debug\NoteBook.exe.licenses
+C:\Users\HSN\Desktop\c#各个记事本\记事本5\NoteBook\obj\Debug\NoteBook.exe.manifest
+C:\Users\HSN\Desktop\c#各个记事本\记事本5\NoteBook\obj\Debug\NoteBook.application
